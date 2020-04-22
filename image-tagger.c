@@ -1,5 +1,5 @@
 /*
-** image-tagger.c Latest Version Friday 5-5-19 11pm Panagiotis (Peter) Goulas - Commputer Systems - Assignment 1- final final
+** image--tagger.c Latest Version Friday 5-5-19 11pm Panagiotis (Peter) Goulas - Commputer Systems - Assignment 1- final final
 */ 
 
 #include <errno.h>
